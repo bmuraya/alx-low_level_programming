@@ -9,15 +9,19 @@
  */
 int main(void)
 {
-        char c = 'z';
+        char ch;
 
-        while (c >= 'a')
-        {
-                putchar(c);
-                c--;
-        }
+	for (ch = '0'; <= '9'; ch++)
+	{
+		putchar(ch);
+	}
+	for (ch= 'a'; ch <= 'f'; ch++)
 
-        putchar('\n');
-        return (0);
+	{
+		putchar(ch);
+			
+	}
+	putchar ('\n');
+	return (0);
 }
 
