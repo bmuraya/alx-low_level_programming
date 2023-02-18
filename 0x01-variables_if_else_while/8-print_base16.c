@@ -16,7 +16,6 @@ int main(void)
 		putchar(ch);
 	}
 	for (ch= 'a'; ch <= 'f'; ch++)
-
 	{
 		putchar(ch);
 			
@@ -24,4 +23,3 @@ int main(void)
 	putchar ('\n');
 	return (0);
 }
-
