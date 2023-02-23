@@ -1,25 +1,21 @@
 #include "main.h"
+
 /**
-*print_square - prints squares
-*@size: parameter
-*Return:returns nothing
+* print_square - prints hashes squares
+* @size: size of the square
+* Return: no return
 */
 void print_square(int size)
 {
-int inc1, inc2;
-if (size > 0)
+int i, j;
+for (i = 0; i < size; i++)
 {
-for (inc1 = 0; inc1 < size; inc1++)
+for (j = 0; j < size; j++)
 {
-for (inc2 = 0; inc2 < (size - 1); inc2++)
-_putchar('#');
-
-_putchar('#');
+_putchar(35);
+}
+if (i != size - 1)
 _putchar('\n');
 }
-}
-else
-{
 _putchar('\n');
-}
 }
