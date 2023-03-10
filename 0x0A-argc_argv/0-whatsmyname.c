@@ -5,6 +5,7 @@
 *ou should not remove the path before the name of the program
 */
 int main(int argc __attribute__((unused)), char *argv[])
+{
 printf("%s\n", argv[0]);
 return (0);
 }
