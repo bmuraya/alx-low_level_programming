@@ -9,10 +9,10 @@
  */
 void *malloc_checked(unsigned int b)
 {
-	void *ptr = malloc(b);
+	void *mem = malloc(b);
 
-	if(ptr == NULL)
+	if (mem == NULL)
 		exit(98);
 
-	return (ptr);
+	return (mem);
 }
