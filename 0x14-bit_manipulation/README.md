@@ -5,7 +5,7 @@ Bit manipulation is the act of algorithmically manipulating bits or other pieces
 
 ## Bitwise Operators:
 
-Our shell has support for the following built-in commands:
+Bitwise operators are used to perform operations on individual bits of binary numbers. 
 
 | Operator              | Description                                                                                             |
 | ------------------- | ----------------------------------------------------------------------------------------- |
