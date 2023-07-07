@@ -5,9 +5,8 @@
  * @size: The size of the array.
  *
  * Return: If an error occurs - NULL.
- * else, return a pointer to the new hash table.
+ *         Otherwise - a pointer to the new hash table.
  */
-
 hash_table_t *hash_table_create(unsigned long int size)
 {
 	hash_table_t *ht;
