@@ -44,6 +44,6 @@ All of the following folders are projects done during the studies:
 
 
 ## Author 
-+ [babu muraya]
+[babu muraya](https://github.com/bmuraya)
 
 ---
