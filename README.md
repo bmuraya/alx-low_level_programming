@@ -34,10 +34,10 @@ All of the following folders are projects done during the studies:
 | [`0x13-more_singly_linked_lists`](0x13-more_singly_linked_lists) | It aims to learn about singly linked lists in **C language** |
 | [`0x14-bit_manipulation`](0x14-bit_manipulation) | It aims to learn about how to manipulate bits and use bitwise operators in **C language** |
 | [`0x15-file_io`]| It aims to learn about how to handle files (open, close, read and write), file descriptors, system calls and file permissions in **C language** |
-| [`0x17-doubly_linked_lists`] | It aims to learn about doubly linked list in **C language** |
-| [`0x18-dynamic_libraries`] | It aims to learn about dynamic and shared libraries in **C language** |
-| [`0x1A-hash_tables`] | It aims to learn how to implement Hash Tables with **C language** |
-| [`0x1C-makefiles`] | It aims to learn what are makefiles, when, why and how to use them (with variables, explicit and implicit rules) |
+| [`0x17-doubly_linked_lists`](0x17-doubly_linked_lists) | It aims to learn about doubly linked list in **C language** |
+| [`0x18-dynamic_libraries`] (0x18-dynamic_libraries)| It aims to learn about dynamic and shared libraries in **C language** |
+| [`0x1A-hash_tables`](0x1A-hash_tablesn) | It aims to learn how to implement Hash Tables with **C language** |
+| [`0x1C-makefiles`](0x1C-makefiles) | It aims to learn what are makefiles, when, why and how to use them (with variables, explicit and implicit rules) |
 
 
 
